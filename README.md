@@ -474,51 +474,51 @@ DBに保存！
 
 ## エレベータービッチ
 
-<font color="MediumVioletRed">あ、高橋さん、お疲れ様です。</font>
+伊藤：あ、高橋さん、お疲れ様です。
 
-<font color="SpringGreen">お、伊藤さん、お疲れ。</font>
+高橋さん：お、伊藤さん、お疲れ。
 
-<font color="MediumVioletRed">管制の人って、残業多いですか？</font>
+伊藤：管制の人って、残業多いですか？
 
-<font color="SpringGreen">う〜ん、そこそこかな</font>
+高橋さん：う〜ん、そこそこかな
 
-<font color="MediumVioletRed">255個もある現場を6人で回すって、大変そうですね</font>
+伊藤：255個もある現場を6人で回すって、大変そうですね
 
-<font color="SpringGreen">まあ、仕事だからね</font>
+高橋さん：まあ、仕事だからね
 
-<font color="MediumVioletRed">そういば、最近僕、アプリ開発の勉強してるんですよ</font>
+伊藤：そういば、最近僕、アプリ開発の勉強してるんですよ
 
-<font color="SpringGreen">そうなんだ。独学？</font>
+高橋さん：そうなんだ。独学？
 
-<font color="MediumVioletRed">そうです！</font>
+伊藤：そうです！
 
-<font color="SpringGreen">えらいね！帰ってから、勉強までして</font>
+高橋さん：えらいね！帰ってから、勉強までして
 
-<font color="MediumVioletRed">ありがとうございます。</font>
+伊藤：ありがとうございます。
 
-<font color="SpringGreen">・・・・</font>
+高橋さん：・・・・
 
-<font color="MediumVioletRed">あ、で、えっと、ちょっと思いついたアプリがあって、</font>
+伊藤：あ、で、えっと、ちょっと思いついたアプリがあって、
 
-<font color="SpringGreen">うん..</font>
+高橋さん：うん..
 
-<font color="MediumVioletRed">管制の人って、毎度、案件、コピペして隊員に送るの大変そうだなって思ったので、アプリから現場指示送るようにしたら、少しは作業量減りませんかね？</font>
+伊藤：管制の人って、毎度、案件、コピペして隊員に送るの大変そうだなって思ったので、アプリから現場指示送るようにしたら、少しは作業量減りませんかね？
 
-<font color="SpringGreen">んー、どうだろ...アプリでそんなことできるのかな？</font>
+高橋さん：んー、どうだろ...アプリでそんなことできるのかな？
 
-<font color="MediumVioletRed">できると思いますよ！</font>
+伊藤：できると思いますよ！
 
-<font color="SpringGreen">へー</font>
+高橋さん：へー
 
-<font color="MediumVioletRed">僕、勉強がてらに、簡単なアプリ、ちょっと作ってみますよ</font>
+伊藤：僕、勉強がてらに、簡単なアプリ、ちょっと作ってみますよ
 
-<font color="SpringGreen">おお、やる気がすごいね！笑</font>
+高橋さん：おお、やる気がすごいね！笑
 
-<font color="MediumVioletRed">もし、出来上がったら、試作レベルで使ってもらえませんか？</font>
+伊藤：もし、出来上がったら、試作レベルで使ってもらえませんか？
 
-<font color="SpringGreen">とりあえず、わかりました。頑張って作ってみてください。楽しみにしています。</font>
+高橋さん：とりあえず、わかりました。頑張って作ってみてください。楽しみにしています。
 
-<font color="MediumVioletRed">はい！ありがとうございます！</font>
+伊藤：はい！ありがとうございます！
 
 
 
