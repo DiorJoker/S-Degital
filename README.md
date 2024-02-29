@@ -537,8 +537,8 @@ Webは、Next.js
 
 ## 手引き
 
-[S-Degiのワイヤーフレーム]()
-
-[S-Degiのメイン部分のみ/コア機能飲みの解説記事]()
-
 [ブログ版](https://qiita.com/delsan/items/0cb9563f1f2490aa808d)
+
+[S-Degiのメイン部分のみ/コア機能のみのGitHub](https://github.com/DiorJoker/S-Degital-Main-Core-Core)
+
+[S-Degiのメイン部分のみ/コア機能のみの解説記事](https://qiita.com/delsan/items/745c26b6e614e91244f2)
