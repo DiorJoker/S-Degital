@@ -539,6 +539,87 @@ DBに保存！
 ```
 
 
+
+
+# 簡単なワイヤーフレーム
+
+## 警備員アカウント
+
+
+![スクリーンショット 2024-02-29 20.29.44.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/57ff8f44-96e9-90f6-7cb0-035d6d009038.png)
+
+
+### 明日の現場ページ
+
+![スクリーンショット 2024-02-29 20.29.58.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/352ec76d-6329-f9ed-47f5-050534194ac0.png)
+
+
+### 明日の現場ページ
+
+![スクリーンショット 2024-02-29 20.30.02.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/a36a56c6-bb58-97c0-7ac4-c4ab4567b2fa.png)
+
+
+### 過去の現場履歴ページ
+
+![スクリーンショット 2024-02-29 20.30.06.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/b471a8e8-4414-f90e-beab-d9253e0846de.png)
+
+
+### 許諾後の明日の現場ページ
+
+![スクリーンショット 2024-02-29 20.30.10.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/dafeb7a6-f32a-9625-dfeb-64096d3fc025.png)
+
+
+
+
+## 管制アカウント
+
+![スクリーンショット 2024-02-29 20.30.41.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/1c321f50-cddd-c0b6-a140-46fdf7ddef86.png)
+
+
+### 未定現場一覧ページ
+
+![スクリーンショット 2024-02-29 20.30.59.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/4711aa3f-a6a0-5db8-7372-4b3dd349e246.png)
+
+
+### 現場案件一覧
+
+![スクリーンショット 2024-02-29 20.31.04.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/546c5eda-8642-e203-23c1-4fe424c709c2.png)
+
+
+### 案件登録ページ
+
+![スクリーンショット 2024-02-29 20.31.09.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/9f13c863-c0fd-f4c5-52ce-ea05705a73f6.png)
+
+
+### 隊員一覧
+
+![スクリーンショット 2024-02-29 20.31.13.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/97f24139-d061-9584-fb6c-f30757053ed2.png)
+
+
+### 通知一覧
+
+![スクリーンショット 2024-02-29 20.31.17.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/3880ff2b-22d4-2dd9-fe39-9aa002cde294.png)
+
+
+### 個別の案件ページ
+
+![スクリーンショット 2024-02-29 20.31.22.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/ec014f0c-c2bb-ff30-c8db-575227cc4fc6.png)
+
+
+### 依頼ページ
+
+![スクリーンショット 2024-02-29 20.31.26.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/e59728f0-b108-4ec7-162a-9867fab6da39.png)
+
+
+
+### 既定現場一覧ページ
+
+![スクリーンショット 2024-02-29 20.38.46.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3586858/1a5a2a15-fe72-559d-283b-6deeabfe48f6.png)
+
+
+
+
+
 # 希望
 
 Webとモバイルの両方を作りたい
