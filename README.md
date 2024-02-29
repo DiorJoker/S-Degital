@@ -392,10 +392,10 @@ DBに保存してある住所から、明日の現場情報として、マップ
 [これ](https://zenn.dev/riya_amemiya/articles/55d3918487e426)を参考に、
 
 
-挑戦したい技術は、Next.js,Rails,Docker,TypeScript,TailwindCSS,GitHub Actions,Recoil,Jest,Notion
+挑戦したい技術は、`Next.js`,`Rails`,`Docker`,`TypeScript`,`TailwindCSS`,`GitHub Actions`,`Recoil`,`Jest`,`Notion`
 
 
-の技術を使用していく
+これらの技術を使用していく
 
 ### ⑧自分から作りたくて作っている
 
