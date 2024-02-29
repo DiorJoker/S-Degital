@@ -528,6 +528,7 @@ DBに保存！
 Webとモバイルの両方を作りたい
 
 Webは、Next.js
+
 モバイルは、ReactNative
 
 で、6ヶ月後くらいに、完成させたい
@@ -539,3 +540,5 @@ Webは、Next.js
 [S-Degiのワイヤーフレーム]()
 
 [S-Degiのメイン部分のみ/コア機能飲みの解説記事]()
+
+[ブログ版](https://qiita.com/delsan/items/0cb9563f1f2490aa808d)
